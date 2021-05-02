@@ -1,5 +1,7 @@
 Hi, I'm Esmanur 👋
 
+- ![](https://komarev.com/ghpvc/?username=esmadl&color=lightgrey)
+
 
 - :woman_student: I’m currently a student in Adnan Menderes University
 - 🌱 I’m currently learning Machine Learning and Algorithms
